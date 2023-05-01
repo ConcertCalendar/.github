@@ -50,7 +50,7 @@
 - Refresh Token 재발급 버그 해결
 - QueryDSL로 동적쿼리 적용하여 공연 북마크 메서드 개수 줄이기
 - yml 내 설정 변경을 통해 JavaMailSender Bean 에러 해결
-- EC2에 Nginx 도입하기
+- EC2에 Nginx 도입하여 포트포워딩 구현
 
 
 ## 배운점 / 아쉬운점
