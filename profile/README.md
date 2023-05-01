@@ -41,7 +41,7 @@
 
 <br>
 
-## Technical Issue
+## 프로젝트에서 발생했던 Technical Issue / 트러블 슈팅
 [ 👉 자세한 트러블 슈팅 과정은 여기로](https://github.com/ConcertCalendar/.github/wiki/Technical-Issue)
 
 ### BACKEND
