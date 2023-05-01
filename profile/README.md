@@ -42,6 +42,15 @@
 <br>
 
 ## Technical Issue
+[ 👉 자세한 트러블 슈팅 과정은 여기로](https://github.com/ConcertCalendar/.github/wiki/Technical-Issue)
+
+### BACKEND
+- Github Action & S3 & Code Deploy에서 Github Action & Docker로 CI/CD 자동화 방식 변경
+- JDBC + Bulk Insert로 삽입 쿼리 성능 개선
+- Refresh Token 재발급 버그 해결
+- QueryDSL로 동적쿼리 적용하여 공연 북마크 메서드 개수 줄이기
+- yml 내 설정 변경을 통해 JavaMailSender Bean 에러 해결
+- EC2에 Nginx 도입하기
 
 
 ## 배운점 / 아쉬운점
