@@ -12,16 +12,25 @@
 
 ## 기술 스택
 
-## 아키텍처
-### 서비스 아키텍처
+### FRONTEND
+
+### BACKEND
+<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/JUNIT5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white"> <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon s3&logoColor=white"> <img src="https://img.shields.io/badge/GITHUB ACTIONS-2088FF?style=for-the-badge&logo=github actions&logoColor=white">
+
+### 협업
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/SLACK-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+
+
+
+## 서비스 아키텍처
 
 
 ## 주요 기능
-각 기능별 Use Case
+[각 기능별 Use Case](https://github.com/ConcertCalendar/.github/wiki/Use-Case)
 
 ### 📌 공연 북마크
 - 좋아하는 공연을 북마크 할 수 있습니다
-### ✏️ 공연 후기 게시물 작성
+### ✏️ 공연 후기 작성
 - 게시물/댓글/답글을 작성할 수 있습니다
 ### 🔎 공연/게시글 검색
 - 원하는 공연을 검색할 수 있습니다
