@@ -59,6 +59,20 @@
 
 ## 배운점 / 아쉬운점
 
+### FRONTEND
+ - HTML5과 CSS3를 이용하여 레이아웃을 잡는 법을 배웠습니다.
+ - axios와 fetch를 이용하여 REST API 통신 방식에 대해 배웠습니다.
+ - Redux를 사용하여 React State의 상태 관리 하는 것을 배웠습니다.
+ - React-router-dom을 사용하여 페이지 라우팅 하는 법을 배웠습니다.
+ - CSS moudle을 사용하여 CSS module의 필요성을 배웠습니다.
+ - CSS animation을 사용하여 loading 애니메이션을 만드는 법을 배웠습니다.
+ - React 함수형 컴포넌트를 만드는 법에 대하여 배웠습니다.
+ - Typescript 와 Javascript의 차이점에 대하여 배우고 Typescript를 사용한 React 컴포넌트를 만드는 것을 배웠습니다.
+ - JWT를 이용하여 로그인을 유지하는 법을 배웠습니다.
+ - Cookie를 이용하여 데이터를 저장하는 방법을 배웠습니다.
+ - 정규표현식을 활용하여 이메일 형식을 위반하는지 확인하는 법을 배웠습니다.
+### BACKEND
+
 
 ## ERD
 ![concertCalendar (2)](https://user-images.githubusercontent.com/80939285/235438919-344dc126-5e2f-47c8-bd1e-530265c5240d.png)
