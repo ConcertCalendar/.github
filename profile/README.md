@@ -25,6 +25,7 @@
 
 
 ## 서비스 아키텍처
+![image](https://user-images.githubusercontent.com/77186025/235592275-0975913d-858e-4eb0-a6bc-3bc49d35c137.png)
 
 
 ## 주요 기능
